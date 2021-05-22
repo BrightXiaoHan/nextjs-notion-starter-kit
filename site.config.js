@@ -17,9 +17,9 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
+  twitter: 'Little_stuffhan',
   github: 'BrightXiaoHan',
-  linkedin: 'fisch2',
+  linkedin: '冰-韩-05456415a',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
